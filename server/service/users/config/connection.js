@@ -1,6 +1,6 @@
 const { MongoClient } = require('mongodb');
 
-const url = 'mongodb+srv://husen20:Y1KbNWbMdzkAzSvn@cluster0.p0sc3b7.mongodb.net/?retryWrites=true&w=majority';
+const url = process.env.MONGODB;
 const client = new MongoClient(url);
 
 let dbName = 'Movie-Theater';
