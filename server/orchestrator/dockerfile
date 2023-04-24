@@ -1,0 +1,14 @@
+FROM node:16.13
+
+WORKDIR /orchestrator/app
+
+ENV PORT=4000
+ENV REDIS=FJLzReUTaJTcQiYry18uBzwUAsTntFn9
+
+COPY package.json package-lock.json /orchestrator/app
+
+RUN npm install
+
+COPY . .
+
+CMD [ "node", "app.js" ]

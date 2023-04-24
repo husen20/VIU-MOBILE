@@ -1,0 +1,13 @@
+FROM node:16.13
+
+WORKDIR /user/app
+
+ENV PORT=4001
+
+COPY package.json package-lock.json /user/app
+
+RUN npm install
+
+COPY . .
+
+CMD [ "node", "app.js" ]

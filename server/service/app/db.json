@@ -1,0 +1,333 @@
+{
+    "movies": [
+        {
+            "title": "The Heavenly Idol",
+            "synopsis": "Di Seoul, Rembrary, sang utusan Dewi, suatu hari menemukan dirinya dalam tubuh Woo Yeon Woo, salah satu anggota grup idola Wild Animal, dengan penampilan yang tidak mendekati kekhidmatan dan keilahiannya. Segala sesuatu mulai dari keterampilan hingga penampilan dan bahkan masa lalu seseorang harus mendekati sempurna di dunia idola, tapi yang dia lihat adalah dunia aneh yang dipenuhi senyuman palsu",
+            "trailerUrl": "ppIjXDlj5uo",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_250,w_450,dpr_1.5,f_auto,c_thumb,q_auto:low,c_fill,g_faces:auto/1166094583/d-1",
+            "genreId": 1,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "Revolutionary Sisters",
+            "synopsis": "Sepasang suami istri yang memiliki anak bersiap bercerai setelah 40 tahun tinggal bersama. Si ayah tidak mau bercerai, dan ketiga putrinya Gwang Nam, Gwang Sik, dan Gwang Tae, tidak memahaminya",
+            "trailerUrl": "e8MKVc-NZTA",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_250,w_450,dpr_1.5,f_auto,c_thumb,q_auto:low/1165863408/d-1",
+            "genreId": 2,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "Dear Mayang Street",
+            "synopsis": "Yi Dong Dong yang berusia 18 tahun pindah bersama keluarganya kembali ke kampung halaman mereka dan jatuh cinta pada pandangan pertama pada tetangganya Ma Xiao Xiao",
+            "trailerUrl": "2ala4I8tarw",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_250,w_450,dpr_1.5,f_auto,c_thumb,q_auto:low/1165894607/d-1",
+            "genreId": 2,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "Progresnya Berapa Persen?",
+            "synopsis": "April telah bekerja di sebuah perusahaan konsultan konstruksi selama setahun. Dia menyukai suasana yang sulit ditemukan di kebanyakan lingkungan kerja lainnya.",
+            "trailerUrl": "ulQJLk99MKE",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_250,w_450,dpr_1.5,f_auto,c_thumb,q_auto:low/1166099654/d-1",
+            "genreId": 4,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "My Amazing Boyfriend",
+            "synopsis": "Mutan Xue Ling Qiao, yang telah tertidur selama berabad-abad, dibangunkan oleh aktris malang Tian Jing Zhi dalam sebuah kecelakaan mobil. Dia kemudian memaksa untuk tinggal di rumahnya meskipun masa lalunya yang misterius",
+            "trailerUrl": "Xcxc01rdJao",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_250,w_450,dpr_1.5,f_auto,c_thumb,q_auto:low/1165832948/d-1",
+            "genreId": 4,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "The Secret Romantic Guesthouse",
+            "synopsis": "Setelah ayahnya wafat, Yoon Dan O, putri bungsu kesayangan seorang keluarga yang dahulu kaya, menyadari kehidupannya yang mewah dan penuh privilese tidak bisa dipertahankan dan memutuskan untuk membuat perubahan.",
+            "trailerUrl": "U71hMKFD_CU",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_171,w_304,dpr_1.5,f_auto,c_thumb,q_auto:low/1166102718/d-1",
+            "genreId": 4,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "Return Man (TH)",
+            "synopsis": "Return Man adalah perusahaan detektif swasta yang mengklaim tingkat pengembalian sukses 100% bagi pemilik yang mencari barang-barang mereka yang hilang.",
+            "trailerUrl": "yCTlwumuutg",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_171,w_304,dpr_1.5,f_auto,c_thumb,q_auto:low/1166102718/d-1",
+            "genreId": 5,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "Reborn Rich",
+            "synopsis": "Hyeon Woo bekerja untuk Grup Soonyang selama sepuluh tahun dan melayani keluarga pemilik seperti pelayan yang setia. Suatu hari, dia dikhianati Wakil Pimpinan dan dibunuh",
+            "trailerUrl": "yCTlwumuutg",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_171,w_304,dpr_1.5,f_auto,c_thumb,q_auto:low/1166086179/d-1",
+            "genreId": 5,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "Decision To Leave",
+            "synopsis": "Saat detektif Hae Joon menyelidiki kematian seorang pria yang jatuh dari puncak gunung, ia bertemu dengan istri pria tersebut, Seo Rae. Hae Joon mulai mencurigai wanita itu, namun di waktu yang bersamaan, perasaan tertarik pada Seo Rae pun tumbuh.",
+            "trailerUrl": "9aMHyTqvIvU",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_171,w_304,dpr_1.5,f_auto,c_thumb,q_auto:low/1166071341/d-1",
+            "genreId": 5,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "A Tiger in Winter",
+            "synopsis": "Di suatu hari di musim dingin, seorang pria diusir dari apartemen kekasihnya. Ia kemudian mulai bekerja sebagai supir pengganti. Satu malam, ia bertemu dengan mantan kekasihnya, yang saat ini bekerja sebagai novelis.",
+            "trailerUrl": "0NctONUKCYA",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_171,w_304,dpr_1.5,f_auto,c_thumb,q_auto:low/1166095534/d-1",
+            "genreId": 6,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "Real Fake (TH)",
+            "synopsis": "Serial komedi aksi romantis tentang polisi turis muda 'Cop' yang menjadi terkenal di masyarakat sebagai perwakilan dari TAT, yang mencoba mengejar gangster palsu yang dijalankan oleh 'Real'",
+            "trailerUrl": "ycNFJ55zKTY",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_171,w_304,dpr_1.5,f_auto,c_thumb,q_auto:low/1166095752/d-1",
+            "genreId": 6,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "Real Fake (TH)",
+            "synopsis": "Serial komedi aksi romantis tentang polisi turis muda 'Cop' yang menjadi terkenal di masyarakat sebagai perwakilan dari TAT, yang mencoba mengejar gangster palsu yang dijalankan oleh 'Real'",
+            "trailerUrl": "ycNFJ55zKTY",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_171,w_304,dpr_1.5,f_auto,c_thumb,q_auto:low/1166095752/d-1",
+            "genreId": 6,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "Real Fake (TH)",
+            "synopsis": "Serial komedi aksi romantis tentang polisi turis muda 'Cop' yang menjadi terkenal di masyarakat sebagai perwakilan dari TAT, yang mencoba mengejar gangster palsu yang dijalankan oleh 'Real'",
+            "trailerUrl": "ycNFJ55zKTY",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_171,w_304,dpr_1.5,f_auto,c_thumb,q_auto:low/1166095752/d-1",
+            "genreId": 6,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "Real Fake (TH)",
+            "synopsis": "Serial komedi aksi romantis tentang polisi turis muda 'Cop' yang menjadi terkenal di masyarakat sebagai perwakilan dari TAT, yang mencoba mengejar gangster palsu yang dijalankan oleh 'Real'",
+            "trailerUrl": "ycNFJ55zKTY",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_171,w_304,dpr_1.5,f_auto,c_thumb,q_auto:low/1166095752/d-1",
+            "genreId": 6,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        },
+        {
+            "title": "Real Fake (TH)",
+            "synopsis": "Serial komedi aksi romantis tentang polisi turis muda 'Cop' yang menjadi terkenal di masyarakat sebagai perwakilan dari TAT, yang mencoba mengejar gangster palsu yang dijalankan oleh 'Real'",
+            "trailerUrl": "ycNFJ55zKTY",
+            "imgUrl": "https://vuclipi-a.akamaihd.net/p/cloudinary/h_171,w_304,dpr_1.5,f_auto,c_thumb,q_auto:low/1166095752/d-1",
+            "genreId": 6,
+            "authorId": "6421bb0a7373e0f422b47aa9",
+            "rating": 100
+        }
+    ],
+    "genres": [
+        {
+            "name": "Action"
+        },
+        {
+            "name": "Comedy"
+        },
+        {
+            "name": "Romance"
+        },
+        {
+            "name": "Horror"
+        },
+        {
+            "name": "Fantasy"
+        },
+        {
+            "name": "Isekai"
+        }
+    ],
+    "authors": [
+        {
+            "username": "husen",
+            "email": "husen@gmail.com",
+            "password": "123456",
+            "role": "Admin",
+            "phoneNumber": "08526546544",
+            "address": "jakarta"
+        }
+    ],
+    "casts": [
+        {
+
+            "movieId": 1,
+            "name": "Han so hee",
+            "profilePict": "https://f.ptcdn.info/966/078/000/rl1hyvsgpFY7fuDl6f6-o.jpg"
+        },
+        {
+
+            "movieId": 1,
+            "name": "Han so hee",
+            "profilePict": "https://f.ptcdn.info/966/078/000/rl1hyvsgpFY7fuDl6f6-o.jpg"
+        },
+        {
+
+            "movieId": 1,
+            "name": "Han so hee",
+            "profilePict": "https://f.ptcdn.info/966/078/000/rl1hyvsgpFY7fuDl6f6-o.jpg"
+        },
+        {
+
+            "movieId": 2,
+            "name": "Kim Ji-soo",
+            "profilePict": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQ41B7AjF7xWDGlcvbWO7XrHVN61srdQTty91aK2rAMA8U99beJkyxQ46hVOLSk4C-Z"
+        },
+        {
+
+            "movieId": 2,
+            "name": "Kim Ji-soo",
+            "profilePict": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQ41B7AjF7xWDGlcvbWO7XrHVN61srdQTty91aK2rAMA8U99beJkyxQ46hVOLSk4C-Z"
+        },
+        {
+
+            "movieId": 2,
+            "name": "Kim Ji-soo",
+            "profilePict": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQ41B7AjF7xWDGlcvbWO7XrHVN61srdQTty91aK2rAMA8U99beJkyxQ46hVOLSk4C-Z"
+        },
+        {
+
+            "movieId": 3,
+            "name": "Rosé",
+            "profilePict": "https://cdn.idntimes.com/content-images/community/2022/12/ysl-beauty-7299fdf3719ae6edd32e8ee56a0369eb-14df650ac790a2199a1b03016e841c49.jpg"
+        },
+        {
+
+            "movieId": 3,
+            "name": "Rosé",
+            "profilePict": "https://cdn.idntimes.com/content-images/community/2022/12/ysl-beauty-7299fdf3719ae6edd32e8ee56a0369eb-14df650ac790a2199a1b03016e841c49.jpg"
+        },
+        {
+
+            "movieId": 3,
+            "name": "Rosé",
+            "profilePict": "https://cdn.idntimes.com/content-images/community/2022/12/ysl-beauty-7299fdf3719ae6edd32e8ee56a0369eb-14df650ac790a2199a1b03016e841c49.jpg"
+        },
+        {
+
+            "movieId": 4,
+            "name": "Jeon Jung-kook",
+            "profilePict": "https://ibighit.com/bts/images/profile/proof/member/member-jk.jpg"
+        },
+        {
+
+            "movieId": 4,
+            "name": "Jeon Jung-kook",
+            "profilePict": "https://ibighit.com/bts/images/profile/proof/member/member-jk.jpg"
+        },
+        {
+
+            "movieId": 4,
+            "name": "Jeon Jung-kook",
+            "profilePict": "https://ibighit.com/bts/images/profile/proof/member/member-jk.jpg"
+        },
+        {
+
+            "movieId": 5,
+            "name": "Jennie Kim",
+            "profilePict": "https://awsimages.detik.net.id/community/media/visual/2022/07/17/jennie-blackpink-2_34.jpeg?w=1200"
+        },
+        {
+
+            "movieId": 7,
+            "name": "Jennie Kim",
+            "profilePict": "https://awsimages.detik.net.id/community/media/visual/2022/07/17/jennie-blackpink-2_34.jpeg?w=1200"
+        },
+        {
+
+            "movieId": 8,
+            "name": "Jennie Kim",
+            "profilePict": "https://awsimages.detik.net.id/community/media/visual/2022/07/17/jennie-blackpink-2_34.jpeg?w=1200"
+        },
+        {
+
+            "movieId": 9,
+            "name": "IU",
+            "profilePict": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+        },
+        {
+
+            "movieId": 10,
+            "name": "IU",
+            "profilePict": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+        },
+        {
+
+            "movieId": 11,
+            "name": "IU",
+            "profilePict": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+        },
+        {
+
+            "movieId": 12,
+            "name": "IU",
+            "profilePict": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+        },
+        {
+
+            "movieId": 6,
+            "name": "Tzuyu",
+            "profilePict": "https://cdn1-production-images-kly.akamaized.net/RA_y4V9no0iI7VzPZG58jqx8v2E=/469x625/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4316299/original/017138100_1675758217-tz.jpg"
+        },
+        {
+
+            "movieId": 6,
+            "name": "Tzuyu",
+            "profilePict": "https://cdn1-production-images-kly.akamaized.net/RA_y4V9no0iI7VzPZG58jqx8v2E=/469x625/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4316299/original/017138100_1675758217-tz.jpg"
+        },
+        {
+
+            "movieId": 13,
+            "name": "Tzuyu",
+            "profilePict": "https://cdn1-production-images-kly.akamaized.net/RA_y4V9no0iI7VzPZG58jqx8v2E=/469x625/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4316299/original/017138100_1675758217-tz.jpg"
+        },
+        {
+
+            "movieId": 13,
+            "name": "Tzuyu",
+            "profilePict": "https://cdn1-production-images-kly.akamaized.net/RA_y4V9no0iI7VzPZG58jqx8v2E=/469x625/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4316299/original/017138100_1675758217-tz.jpg"
+        },
+        {
+
+            "movieId": 14,
+            "name": "Tzuyu",
+            "profilePict": "https://cdn1-production-images-kly.akamaized.net/RA_y4V9no0iI7VzPZG58jqx8v2E=/469x625/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4316299/original/017138100_1675758217-tz.jpg"
+        },
+        {
+
+            "movieId": 14,
+            "name": "Tzuyu",
+            "profilePict": "https://cdn1-production-images-kly.akamaized.net/RA_y4V9no0iI7VzPZG58jqx8v2E=/469x625/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4316299/original/017138100_1675758217-tz.jpg"
+        },
+        {
+
+            "movieId": 15,
+            "name": "Tzuyu",
+            "profilePict": "https://cdn1-production-images-kly.akamaized.net/RA_y4V9no0iI7VzPZG58jqx8v2E=/469x625/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4316299/original/017138100_1675758217-tz.jpg"
+        },
+        {
+
+            "movieId": 15,
+            "name": "Tzuyu",
+            "profilePict": "https://cdn1-production-images-kly.akamaized.net/RA_y4V9no0iI7VzPZG58jqx8v2E=/469x625/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4316299/original/017138100_1675758217-tz.jpg"
+        }
+    ]
+}

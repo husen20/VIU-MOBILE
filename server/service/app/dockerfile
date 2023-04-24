@@ -1,0 +1,15 @@
+FROM node:16.13
+
+WORKDIR /app
+
+ENV PORT=4002
+ENV NODE_ENV=production
+ENV DATABASE_URL=postgresql://postgres:jsFSX2jCGbOf7zVx@db.hgkmdnhkfjprwzoexnsq.supabase.co:5432/postgres
+
+COPY package.json package-lock.json /app
+
+RUN npm install
+
+COPY . .
+
+CMD [ "node", "app.js" ]
